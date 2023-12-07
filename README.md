@@ -1,8 +1,11 @@
 # `INSTAL SCRIPT` 
 >
 
-<pre><code> apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/kyt-team/v3/main/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh</pre></code>
+<pre><code>wget https://raw.githubusercontent.com/kyt-team/v3/main/setup.sh && chmod +x setup.sh && ./setup.sh</pre></code>
+ #update 
 
+ <pre><code>https://raw.githubusercontent.com/kyt-team/v3/main/update.sh && chmod +x update.sh && ./update.sh</pre></code>
+ 
 ### TESTED ON OS 
 - UBUNTU 20.04.05
 - DEBIAN 10
@@ -12,7 +15,7 @@
 - TROJAN WS 443
 - TROJAN GRPC 443
 - SHADOWSOCKS WS 443
-- SHADOWSOCKS GRPC 443
+- SHADOWSOCKS GRPC 443 
 - VLESS WS 443
 - VLESS GRPC 443
 - VLESS NONE TLS 80
