@@ -1,6 +1,10 @@
 # `INSTAL SCRIPT` 
 <pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget https://raw.github.com/kyt-team/v3/main/setup.sh && chmod +x setup.sh && ./setup.sh</pre></code>
 
+# `INSTAL SCRIPT` ttt
+<pre><code>wget https://raw.github.com/kyt-team/v3/main/setup.sh && chmod +x setup.sh && ./setup.sh</pre></code>
+
+
 ### TESTED ON OS 
 - UBUNTU 20.04.05
 - DEBIAN 10
