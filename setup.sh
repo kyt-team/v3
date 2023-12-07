@@ -52,7 +52,7 @@ clear;clear;clear
 
   # // Banner
 echo -e "${RED}─────────────────────────────────────────────────${NC}"
-echo -e "  Welcome To YSSHstore Project Script Installer ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
+echo -e "  Welcome To Alvi Project Script Installer ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e "     This Will Quick Setup VPN Server On Your Server"
 echo -e "         Author : ${green}KYT  ${NC}${YELLOW}(${NC} ${green}Project ${NC}${YELLOW})${NC}"
 echo -e "       © Recode By ALVI TUNNEL ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
