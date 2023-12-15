@@ -29,6 +29,7 @@ echo "2).Restore"
 echo "3).strt"
 echo "4).limit speed"
 echo "5).autobackup"
+echo "6).backup via bot telegram"
 echo
 echo -e "${ungu}++++++++++++++++++++++++++++++++++++++++++++"
 echo
@@ -79,6 +80,16 @@ fi
 if [ $bro = 5 ] || [ $bro = 5 ]
 then
 autobackup
+echo "--------------------------------------------------------"
+echo
+echo "Terimakasih sudah menggunakan layanan script Alvi cell tunnel"
+echo
+echo "--------------------------------------------------------"
+fi
+
+if [ $bro = 6 ] || [ $bro = 6 ]
+then
+m-bot
 echo "--------------------------------------------------------"
 echo
 echo "Terimakasih sudah menggunakan layanan script Alvi cell tunnel"
